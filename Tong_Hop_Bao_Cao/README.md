@@ -31,7 +31,7 @@
 | N05 | 0 | | 0 |
 | N07 | 1 | Gia Kiệt | 0.5 |
 | N08 | 0 | | 0 |
-| N09 | 1 | | 0.5 |
+| N09 | 1 | Thành Luân | 0.5 |
 | N10 | 0 | | 0 |
 | N11 | 2 | Xuân Vũ, Hoàng Huy | 1 |
 | N12 | 0 | | 0 |
@@ -89,10 +89,10 @@
 
 ### **3.2. Ghi nhận câu trả lời**
 - Số điểm của các nhóm (theo thang điểm 10) sẽ được tính dựa trên số câu hỏi trả lời đúng tại lần submit cuối cùng của nhóm đó.
-- Số lượng nhóm tham gia giải bài tập: 15
-- Các nhóm tham gia giải bài tập: 1, 2, 3, 4, 5, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17
-- Tổng số lần submit đã ghi nhận được: 23
-- Tổng số lần submit cuối: 15
+- Số lượng nhóm tham gia giải bài tập: 16
+- Các nhóm tham gia giải bài tập: 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
+- Tổng số lần submit đã ghi nhận được: 24
+- Tổng số lần submit cuối: 16
 - Biểu đồ thống kê số lần submit
 
     ![Total_submitions](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Total_submittions.png)
@@ -108,11 +108,11 @@
 | N07 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
 | N08 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
 | N09 | O(4^n) | O(2^n) | O(3^n) | 3 | 3 | 1 |
-| N10 | O(4^n) | O(2^n) | O(3^n) | 3 | 3 | 1 |
+| N10 | O(4^n) | O(2^n) | O(3^n) | 4 | 3 | 1 |
 | N11 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
 | N12 | O(4^n) | O(2^n) | O(3^n) | 2 | 3 | 1 |
 | N13 | O(4^n) | O(2^n) | O(3^n) | 2 | 3 | 1 |
-| N14 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
+| N14 | O(4^n) | O(2^n) | O(3^n) | 2 | 3 | 1 |
 | N15 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
 | N16 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
 | N17 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
@@ -120,19 +120,19 @@
 ### **3.3. Đánh giá câu trả lời**
 
 - Câu 1 - đáp án đúng là O(4^n)
-  - Các nhóm trả lời sai nhiều nhất ở câu hỏi này do chỉ có 84.2% trả lời đúng trong khi 2 câu hỏi còn lại đều có số câu trả lời đúng trên 94% (cụ thể là 94.7%).
+  - Các nhóm trả lời sai nhiều nhất ở câu hỏi này do chỉ có 87.5% trả lời đúng trong khi 2 câu hỏi còn lại đều có số câu trả lời đúng trên 95% (cụ thể là 95.8%).
   - Biểu đồ thống kê câu trả lời của câu hỏi 1:
  
     ![Ques_1st_submitions](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Ques_1st_Submitions.png)
 
 - Câu 2 - đáp án đúng là O(2^n)
-  - Chỉ có 5.3% câu trả lời ghi nhận được là sai và các nhóm chỉ sai ở đáp án O(n^2), có thể do vội vã nên các nhóm đã chọn nhầm đáp án O(n^2) thay vì O(2^n).
+  - Chỉ có 4.2% câu trả lời ghi nhận được là sai và các nhóm chỉ sai ở đáp án O(n^2), có thể do vội vã nên các nhóm đã chọn nhầm đáp án O(n^2) thay vì O(2^n).
   - Biểu đồ thống kê câu trả lời của câu hỏi 2:
   
     ![Ques_2nd_submitions](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Ques_2nd_Submitions.png)
 
 - Câu 3 - đáp án đúng là O(3^n)
-  - Giống với câu hỏi số 2, có 5.3% câu trả lời ghi nhận được là sai và các nhóm chỉ sai ở đáp án O(n^3), có thể do vội vã nên các nhóm đã chọn nhầm đáp án O(n^3) thay vì O(3^n).
+  - Giống với câu hỏi số 2, có 4.2% câu trả lời ghi nhận được là sai và các nhóm chỉ sai ở đáp án O(n^3), có thể do vội vã nên các nhóm đã chọn nhầm đáp án O(n^3) thay vì O(3^n).
   - Biểu đồ thống kê câu trả lời của câu hỏi 3:
   
     ![Ques_1st_submitions](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Ques_3rd_Submitions.png)
