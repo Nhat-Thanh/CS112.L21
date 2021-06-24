@@ -57,14 +57,14 @@
   - **Đánh giá câu hỏi**: 9/10
 
 ## **3. Đánh giá bài tập**
+- Link form bài tập [tại đây](https://docs.google.com/forms/d/1RLbM_9Lm9D7NqQXeucrVjcm7qn8GtgjaoBFU1g_ehqk/viewform?edit_requested=true).
+- Link file sheet thống kê: [Tại đây](https://github.com/Nhat-Thanh/CS112.L21/blob/main/Tong_Hop_Bao_Cao/Bang_Thong_Ke_Cau_Tra_Loi.csv)
+- Link file pdf được in từ trang kết quả của google form: [Tại đây](https://github.com/Nhat-Thanh/CS112.L21/blob/main/Tong_Hop_Bao_Cao/Th%E1%BB%91ng%20k%C3%AA%20k%E1%BA%BFt%20qu%E1%BA%A3%20b%C3%A0i%20t%E1%BA%ADp%20%C4%91%E1%BB%87%20quy%20-%20Nh%C3%B3m%206.pdf)
+
 ### Index
 * [Các câu hỏi bài tập](#31-các-câu-hỏi-bài-tập)
 * [Ghi nhận câu trả lời](#32-ghi-nhận-câu-trả-lời)
 * [Đánh giá câu trả lời](#33-đánh-giá-câu-trả-lời)
-
-- Link form bài tập [tại đây](https://docs.google.com/forms/d/1RLbM_9Lm9D7NqQXeucrVjcm7qn8GtgjaoBFU1g_ehqk/viewform?edit_requested=true).
-- Link file sheet thống kê: [Tại đây](https://github.com/Nhat-Thanh/CS112.L21/blob/main/Tong_Hop_Bao_Cao/Bang_Thong_Ke_Cau_Tra_Loi.csv)
-- Link file pdf được in từ trang kết quả của google form: [Tại đây](https://github.com/Nhat-Thanh/CS112.L21/blob/main/Tong_Hop_Bao_Cao/Th%E1%BB%91ng%20k%C3%AA%20k%E1%BA%BFt%20qu%E1%BA%A3%20b%C3%A0i%20t%E1%BA%ADp%20%C4%91%E1%BB%87%20quy%20-%20Nh%C3%B3m%206.pdf)
 
 ### **3.1. Các câu hỏi bài tập**
 - Bài tập của nhóm gồm 3 câu hỏi đều xoay quanh việc tính độ phức tạp của thuật toán đệ quy.
