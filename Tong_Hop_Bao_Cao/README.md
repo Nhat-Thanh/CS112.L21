@@ -99,14 +99,17 @@
 - Câu 1 - đáp án đúng là O(4^n)
   - Các nhóm trả lời sai nhiều nhất ở câu hỏi này do chỉ có 84.2% trả lời đúng trong khi 2 câu hỏi còn lại đều có số câu trả lời đúng trên 94% (cụ thể là 94.7%).
   - Biểu đồ thống kê câu trả lời của câu hỏi 1:
+ 
     ![Ques_1st_submitions](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Ques_1st_Submitions.png)
 
 - Câu 2 - đáp án đúng là O(2^n)
   - Chỉ có 5.3% câu trả lời ghi nhận được là sai và các nhóm chỉ sai ở đáp án O(n^2), có thể do vội vã nên các nhóm đã chọn nhầm đáp án O(n^2) thay vì O(2^n).
   - Biểu đồ thống kê câu trả lời của câu hỏi 2:
+  
     ![Ques_2nd_submitions](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Ques_2nd_Submitions.png)
 
 - Câu 3 - đáp án đúng là O(3^n)
   - Giống với câu hỏi số 2, có 5.3% câu trả lời ghi nhận được là sai và các nhóm chỉ sai ở đáp án O(n^3), có thể do vội vã nên các nhóm đã chọn nhầm đáp án O(n^3) thay vì O(3^n).
   - Biểu đồ thống kê câu trả lời của câu hỏi 3:
+  
     ![Ques_1st_submitions](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Ques_3rd_Submitions.png)
