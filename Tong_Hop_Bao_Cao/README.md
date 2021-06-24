@@ -10,7 +10,7 @@
 
 ## **1. Đóng góp xây dựng buổi học**
 
-| Tên nhóm | Số lần phát biểu | Người phát biểu |
+| Tên nhóm | Số lần đóng góp | Người đóng góp |
 |:--------:|:----------------:|:--------------:|
 | N01 | 2 | Xuân Linh, Tấn Thành |
 | N02 | 1 | Đức Thắng |
