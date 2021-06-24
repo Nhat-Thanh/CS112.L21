@@ -113,3 +113,16 @@
   - Biểu đồ thống kê câu trả lời của câu hỏi 3:
   
     ![Ques_1st_submitions](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Ques_3rd_Submitions.png)
+
+## **3. Mô tả các bài thực hành**
+-  **Tuần 1: Tảo biển + Trạm thu phí**
+
+    - Link file colab: [Tuần 1](https://github.com/Nhat-Thanh/CS112.L21/blob/main/Tuan1/PTTKTT_Tuan1_wecode.ipynb)
+-  **Tuần 2: H-index + Khóa số**
+    - Link file colab: [Tuần 2](https://github.com/Nhat-Thanh/CS112.L21/blob/main/Tuan2/PTTKTT_Tuan2_wecode.ipynb)
+
+- **Tuần 3: Số nguyên mới + Đổi mới**
+    - Link file colab: [Tuần 3](https://github.com/Nhat-Thanh/CS112.L21/blob/main/Tuan3/PTTKTT_Tuan3_wecode.ipynb)
+
+- **Tuần 4: Sửa hàng rào + Phân số**
+    - Link file colab: [Tuần 4](https://github.com/Nhat-Thanh/CS112.L21/blob/main/Tuan4/PTTKTT_Tuan4_wecode.ipynb)
