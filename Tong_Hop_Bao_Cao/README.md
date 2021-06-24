@@ -58,9 +58,9 @@
 
 ## **3. Đánh giá bài tập**
 ### Index
-* [Các câu hỏi bài tập](31-các-câu-hỏi-bài-tập)
-* [Ghi nhận câu trả lời](32-ghi-nhận-câu-trả-lời)
-* [Đánh giá câu trả lời](33-đánh-giá-câu-trả-lời)
+* [Các câu hỏi bài tập](#31-các-câu-hỏi-bài-tập)
+* [Ghi nhận câu trả lời](#32-ghi-nhận-câu-trả-lời)
+* [Đánh giá câu trả lời](#33-đánh-giá-câu-trả-lời)
 
 - Link form bài tập [tại đây](https://docs.google.com/forms/d/1RLbM_9Lm9D7NqQXeucrVjcm7qn8GtgjaoBFU1g_ehqk/viewform?edit_requested=true).
 - Link file sheet thống kê: [Tại đây](https://github.com/Nhat-Thanh/CS112.L21/blob/main/Tong_Hop_Bao_Cao/Bang_Thong_Ke_Cau_Tra_Loi.csv)
