@@ -3,6 +3,42 @@
 <h1 align="center"><b>PHÂN TÍCH ĐỘ PHỨC TẠP THUẬT TOÁN ĐỆ QUY </b></h1>
 
 
+## PHÂN CÔNG VÀ THEO DÕI TIẾN ĐỘ CÔNG VIỆC CHO MỖI THÀNH VIÊN
+**PHÂN CÔNG CÔNG VIỆC**
+
+Trong buổi seminar: 
+- Vũ Nguyễn Nhật Thanh trình bày phần khái niệm về đệ quy và cách tính toán độ phức tạp thuật toán của đệ quy và trả lời câu hỏi của các nhóm trong quá trình thuyết trình.
+- Võ Huy Thành thuyết thuyết trình phần ưu điểm và nhược điểm của thuậ toán đệ quy
+- Nguyễn Văn Thành và Nguyễn Phi Long quan sát và ghi chú lại các câu hỏi và các bạn phát biểu, trả lời câu hỏi. 
+
+Trong quá trình chuẩn bị
+- Cả nhóm tìm hiểu về chủ đề và phân chia công việc. 
+- Nhật Thanh tìm hiểu và chuẩn bị file script gồm các nội dung khái niệm thuật toán đệ quy và cách tính độ phức tạp thuật toán đệ quy 
+- Văn Thành, Huy Thành đảm nhiệm phần chuẩn bị bài tập trong slide và bài tập về nhà.
+- Long tổng hợp các tài liệu của các thành viên từ đó rút ra các ý chính để soạn slide.
+
+**THEO DÕI TIẾN ĐỘ CỦA MỖI THÀNH VIÊN TRONG NHÓM:**
+- Ngày 21/03/2021 nhóm bắt đầu tiến hành họp tìm hiểu nội dung bài seminar.
+- Ngày 22/03/2021 các thành viên trong nhóm tiến hành họp lại lần 2 để trao đổi về nội dung đã tìm hiểu được và ra các quyết định về cách tổ chức, triển khai buổi seminar nhắm đến mục tiêu là thực tiễn và ví dụ làm nòng cốt để các thành viên trong lớp tiếp cận vấn đề một cách thực chiến không trừu tượng, hàm lâm. Cũng từ đó đưa ra các deadline nhỏ để thành viên trong nhóm thực hiện.
+- Ngày 24/03/2021 Thành viên trong nhóm tiến hành đúng tiến độ công việc Nhật Thanh đăng tải file script để thuyết trình, Huy Thành - Văn Thành cũng chuẩn bị đã xong các bài tập cũng như ví dụ cần thiết trong bài thuyết trình và bài tập tự luyện cho các nhóm khác. Tiếp theo chúng tôi cũng tiếp tục thảo luận về ý tưởng slide và cách phân bổ sao cho hợp lý buổi thuyết trình rồi đưa ra thống nhất deadline để Phi Long soạn slide.
+- Ngày 26/03/2021 cũng là buổi tập cuối của nhóm trước buổi Seminar, nội dung buổi này xoay quang việc chỉnh sửa slide, tổng duyệt cho các thành viên thuyết trình, phân công thư ký, người trả lời câu hỏi ...
+
+-> Nhìn chung nhóm 6 hoàn thành tốt nhiệm vụ mà tập thể giao, các thành viên làm việc với tinh thần trách nhiệm, chỉnh chu, lắng nghe và trao đổi một các bình đẳng dựa trên sự học hỏi và sự nhiệt huyết.
+
+**CÁC ĐIỀU CÒN THIẾU SÓT TẠI BUỔI SEMINAR**
+- Sử dụng bảng nhiều hơn là sử dụng animation.
+- Còn thiếu phần đệ quy tương hỗ và cần bổ xung vào slide.
+- Quá tập trung vào đê quy nhị phân và bỏ qua khá nhiều nội dung về đệ quy tuyến tính và đệ quy tương hỗ.
+
+**CÔNG VIỆC CỦA CÁC THÀNH VIÊN SAU BUÔI SEMINAR**
+- Nhật Thanh tìm hiểu lý thuyết phần đệ quy tương hỗ.
+- Phi long và Huy Thành bổ sung phần lý thuyết và bài tập vào slide
+- Văn Thành chuẩn bị form bài tập để các nhóm làm cho buổi sửa bài tập
+- Huy Thành và Nhật Thanh sửa trước bài tập để chuẩn bị cho buổi sửa bài tập.
+- Nhật Thanh sửa bài tập của nhóm cho các bạn trong buổi sửa bài tập.
+
+# **ĐÁNH GIÁ KẾT QUẢ CỦA CÁC NHÓM**
+
 ## BẢNG MỤC LỤC
 * [Đóng góp xây dựng buổi học](#1-đóng-góp-phát-biểu-xây-dựng-buổi-học)
 * [Các câu hỏi hay nhất](2-các-câu-hỏi-hay-nhất)
