@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center"><b>CS112.L21.N04 - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h1>
+<h1 align="center"><b>CS112.L21.N06 - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h1>
 <h1 align="center"><b>PHÂN TÍCH ĐỘ PHỨC TẠP THUẬT TOÁN ĐỆ QUY </b></h1>
 
 
