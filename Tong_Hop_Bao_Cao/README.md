@@ -4,12 +4,12 @@
 
 
 ## BẢNG MỤC LỤC
-* [Đóng góp xây dựng buổi học](#1-đóng-góp-xây-dựng-buổi-học)
+* [Đóng góp xây dựng buổi học](#1-đóng-góp-phát-biểu-xây-dựng-buổi-học)
 * [Các câu hỏi hay nhất](2-các-câu-hỏi-hay-nhất)
 * [Đánh giá bài tập](#3-đánh-giá-bài-tập)
 * [Mô tả các bài thực hành](#4-mô-tả-các-bài-thực-hành)
 
-## **1. Đóng góp xây dựng buổi học**
+## **1. Đóng góp phát biểu xây dựng buổi học**
 
 | Tên nhóm | Số lần đóng góp | Người đóng góp |
 |:--------:|:----------------:|:--------------:|
@@ -88,8 +88,10 @@
 | Tên nhóm | Câu 1 | Câu 2 | Câu 3 | Số lần submit | Số câu đúng | Tổng điểm |
 |:--------:|:-----:|:-----:|:-----:|:-------------:|:-----------:|:---------:|
 | N01 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
+| N02 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
 | N03 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
 | N04 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
+| N05 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
 | N07 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
 | N09 | O(4^n) | O(2^n) | O(3^n) | 3 | 3 | 10 |
 | N10 | O(4^n) | O(2^n) | O(3^n) | 3 | 3 | 10 |
