@@ -9,7 +9,7 @@
 * [Đánh giá bài tập](#sĐánh-giá-bài-tập)
 * [Thống kê buổi học](#thống-kê-buổi-học)
 
-##**1. Đóng góp xây dựng buổi học**
+# **1. Đóng góp xây dựng buổi học**
 
 | Tên nhóm | Số lần phát biểu | Người phát biểu |
 |:--------:|:----------------:|:--------------:|
@@ -31,7 +31,7 @@
 | N17 | 1 | Thế Tấn |
 | N18 | 0 |
 
-##**2. Các câu hỏi hay nhất**
+# **2. Các câu hỏi hay nhất**
 - **Nhóm 14 (N14)**: 
   - **Người đặt câu hỏi**: Nguyễn Chí Cường 
   - **Câu hỏi**: Độ phức tạp của đệ quy tương hỗ được tính như thế nào?
@@ -56,12 +56,12 @@
   - **Câu trả lời**: Khi chương trình không yêu cầu giới hạn tài nguyên sử dụng hoặc là bạn muốn viết một chương trình đơn giản trong một thời gian ngắn.
   - **Đánh giá câu hỏi**: 9/10
 
-##**3. Đánh giá bài tập**
+# **3. Đánh giá bài tập**
 - Link form bài tập [tại đây](https://docs.google.com/forms/d/1RLbM_9Lm9D7NqQXeucrVjcm7qn8GtgjaoBFU1g_ehqk/viewform?edit_requested=true).
 - Link file sheet thống kê: [Tại đây](https://github.com/Nhat-Thanh/CS112.L21/blob/main/Tong_Hop_Bao_Cao/Bang_Thong_Ke_Cau_Tra_Loi.csv)
 - Link file pdf được in từ trang kết quả của google form: [Tại đây](https://github.com/Nhat-Thanh/CS112.L21/blob/main/Tong_Hop_Bao_Cao/Th%E1%BB%91ng%20k%C3%AA%20k%E1%BA%BFt%20qu%E1%BA%A3%20b%C3%A0i%20t%E1%BA%ADp%20%C4%91%E1%BB%87%20quy%20-%20Nh%C3%B3m%206.pdf)
 
-###**3.1. Các câu hỏi bài tập**
+## **3.1. Các câu hỏi bài tập**
 - Bài tập của nhóm gồm 3 câu hỏi đều xoay quanh việc tính độ phức tạp của thuật toán đệ quy.
   - **Câu hỏi 1**: [Ques_1st](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Ques_1st.png)
     
@@ -69,7 +69,7 @@
 
   - **Câu hỏi 3**: [Ques_3rd](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Ques_3rd.png)
 
-###**3.2. Ghi nhận câu trả lời**
+## **3.2. Ghi nhận câu trả lời**
 - Số điểm của các nhóm (theo thang điểm 10) sẽ được tính dựa trên số câu hỏi trả lời đúng tại lần submit cuối cùng của nhóm đó.
 - Số lượng nhóm tham gia giải bài tập: 12
 - Các nhóm tham gia giải bài tập: 1, 3, 4, 7, 9, 10, 11, 12, 13, 14, 16, 17
@@ -94,7 +94,7 @@
 | N16 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
 | N17 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
 
-###**3.3. Đánh giá câu trả lời**
+## **3.3. Đánh giá câu trả lời**
 
 - Câu 1 - đáp án đúng là O(4^n)
   - Các nhóm trả lời sai nhiều nhất ở câu hỏi này do chỉ có 84.2% trả lời đúng trong khi 2 câu hỏi còn lại đều có số câu trả lời đúng trên 94% (cụ thể là 94.7%).
