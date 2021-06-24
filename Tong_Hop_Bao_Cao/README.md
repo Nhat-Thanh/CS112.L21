@@ -5,8 +5,8 @@
 
 ## BẢNG MỤC LỤC
 * [Đóng góp xây dựng buổi học](#1-đóng-góp-xây-dựng-buổi-học)
-* [Các câu hỏi hay nhất](2-Các-câu-hỏi-hay-nhất)
-* [Đánh giá bài tập](#3-Đánh-giá-bài-tập)
+* [Các câu hỏi hay nhất](2-các-câu-hỏi-hay-nhất)
+* [Đánh giá bài tập](#3-đánh-giá-bài-tập)
 
 ## **1. Đóng góp xây dựng buổi học**
 
