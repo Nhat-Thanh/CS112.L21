@@ -75,6 +75,7 @@
 - Tổng số lần submit đã ghi nhận được: 19
 - Tổng số lần submit cuối: 12
 - Biểu đồ thống kê số lần submit
+
     ![Total_submitions](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Total_submittions.png)
 - Kết quả thống kê được:
 
