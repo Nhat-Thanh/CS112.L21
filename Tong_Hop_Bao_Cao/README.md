@@ -30,7 +30,7 @@ Trong quá trình chuẩn bị
 - Còn thiếu phần đệ quy tương hỗ và cần bổ xung vào slide.
 - Quá tập trung vào đê quy nhị phân và bỏ qua khá nhiều nội dung về đệ quy tuyến tính và đệ quy tương hỗ.
 
-**CÔNG VIỆC CỦA CÁC THÀNH VIÊN SAU BUÔI SEMINAR**
+**CÔNG VIỆC CỦA CÁC THÀNH VIÊN SAU BUỔI SEMINAR**
 - Nhật Thanh tìm hiểu lý thuyết phần đệ quy tương hỗ.
 - Phi long và Huy Thành bổ sung phần lý thuyết và bài tập vào slide
 - Văn Thành chuẩn bị form bài tập để các nhóm làm cho buổi sửa bài tập
