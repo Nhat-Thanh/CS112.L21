@@ -30,7 +30,7 @@
 | N04 | 1 | Hưng Phú | 0.5 |
 | N05 | 0 | | 0 |
 | N07 | 1 | Gia Kiệt | 0.5 |
-| N08 | 0 | | 0 |
+| N08 | 2 | Gia Phương | 1 |
 | N09 | 1 | Thành Luân | 0.5 |
 | N10 | 0 | | 0 |
 | N11 | 2 | Xuân Vũ, Hoàng Huy | 1 |
@@ -88,11 +88,11 @@
   - **Câu hỏi 3**: [Ques_3rd](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Ques_3rd.png)
 
 ### **3.2. Ghi nhận câu trả lời**
-- Số điểm của các nhóm (theo thang điểm 10) sẽ được tính dựa trên số câu hỏi trả lời đúng tại lần submit cuối cùng của nhóm đó.
-- Số lượng nhóm tham gia giải bài tập: 16
-- Các nhóm tham gia giải bài tập: 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
+- Số điểm của các nhóm sẽ được tính dựa trên số câu hỏi trả lời đúng tại lần submit cuối cùng của nhóm đó.
+- Số lượng nhóm tham gia giải bài tập: 17
+- Các nhóm tham gia giải bài tập: 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17. 18
 - Tổng số lần submit đã ghi nhận được: 24
-- Tổng số lần submit cuối: 16
+- Tổng số lần submit cuối: 17
 - Biểu đồ thống kê số lần submit
 
     ![Total_submitions](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Total_submittions.png)
@@ -111,11 +111,12 @@
 | N10 | O(4^n) | O(2^n) | O(3^n) | 4 | 3 | 1 |
 | N11 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
 | N12 | O(4^n) | O(2^n) | O(3^n) | 2 | 3 | 1 |
-| N13 | O(4^n) | O(2^n) | O(3^n) | 2 | 3 | 1 |
+| N13 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
 | N14 | O(4^n) | O(2^n) | O(3^n) | 2 | 3 | 1 |
 | N15 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
 | N16 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
 | N17 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
+| N18 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
 
 ### **3.3. Đánh giá câu trả lời**
 
@@ -146,7 +147,7 @@
 | N04 | 7 | 0.5 | 1   | 1 | 9.5 |
 | N05 | 7 | 0   | 0   | 1 | 8   |
 | N07 | 7 | 0.5 | 0.5 | 1 | 9   |
-| N08 | 7 | 0   | 0   | 1 | 8   |
+| N08 | 7 | 1   | 0   | 1 | 9   |
 | N09 | 7 | 0.5 | 0.5 | 1 | 9   |
 | N10 | 7 | 0   | 0   | 1 | 8   |
 | N11 | 7 | 1   | 1   | 1 | 10  |
@@ -156,7 +157,7 @@
 | N15 | 7 | 0   | 0   | 1 | 8   |
 | N16 | 7 | 0.5 | 0.5 | 1 | 9   |
 | N17 | 7 | 0.5 | 0.5 | 1 | 9   |
-| N18 | 0 | 0   | 0   | 0 | 0   |
+| N18 | 7 | 0   | 0   | 1 | 8   |
 
 ## **5. Mô tả các bài thực hành**
 -  **Tuần 1: Tảo biển + Trạm thu phí**
