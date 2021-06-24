@@ -7,29 +7,42 @@
 * [Đóng góp xây dựng buổi học](#1-đóng-góp-phát-biểu-xây-dựng-buổi-học)
 * [Các câu hỏi hay nhất](2-các-câu-hỏi-hay-nhất)
 * [Đánh giá bài tập](#3-đánh-giá-bài-tập)
-* [Mô tả các bài thực hành](#4-mô-tả-các-bài-thực-hành)
+* [Đánh giá kết quả cuối cùng của các nhóm](#4-đánh-giá-kết-quả-cuối-cùng-của-các-nhóm)
+* [Mô tả các bài thực hành](#5-mô-tả-các-bài-thực-hành)
+
+## Tiêu chí đánh giá điểm
+- Mặc định các nhóm đã có phát biểu hay làm bài tập sẽ có 7 điểm
+- Các nhóm có tham gia phát biểu: 0.5 * (Số lần phát biểu)
+- Có giải bài tập nhưng kết quả không đúng: 0.5
+- Có giải bài tập và đúng hết: 1
+- Đóng góp câu hỏi: 0.5
+- Câu hỏi hay hoặc câu hỏi có ý nghĩa thực tiễn: 0.5
+- Nếu tổng điểm quá 10 thì sẽ được quy là 10
 
 ## **1. Đóng góp phát biểu xây dựng buổi học**
+- Các nhóm tham gia phát biểu trong buổi seminar
 
-| Tên nhóm | Số lần đóng góp | Người đóng góp |
-|:--------:|:----------------:|:--------------:|
-| N01 | 2 | Xuân Linh, Tấn Thành |
-| N02 | 1 | Đức Thắng |
-| N03 | 0 | |
-| N04 | 1 | Hưng Phú |
-| N05 | 0 | |
-| N07 | 1 | Gia Kiệt |
-| N08 | 0 | |
-| N09 | 0 | |
-| N10 | 0 | |
-| N11 | 2 | Xuân Vũ, Hoàng Huy |
-| N12 | 0 | |
-| N13 | 0 | |
-| N14 | 2 | Vĩnh Phú, Chí Cường |
-| N15 | 0 | |
-| N16 | 1 | Lộc Linh |
-| N17 | 1 | Thế Tấn |
-| N18 | 0 |
+| Tên nhóm | Số lần đóng góp | Người đóng góp | Tổng điểm |
+|:--------:|:---------------:|:--------------:|:---------:|
+| N01 | 2 | Xuân Linh, Tấn Thành | 1 |
+| N02 | 1 | Đức Thắng | 0.5 |
+| N03 | 0 | | 0 |
+| N04 | 1 | Hưng Phú | 0.5 |
+| N05 | 0 | | 0 |
+| N07 | 1 | Gia Kiệt | 0.5 |
+| N08 | 0 | | 0 |
+| N09 | 1 | | 0.5 |
+| N10 | 0 | | 0 |
+| N11 | 2 | Xuân Vũ, Hoàng Huy | 1 |
+| N12 | 0 | | 0 |
+| N13 | 0 | | 0 |
+| N14 | 2 | Vĩnh Phú, Chí Cường | 1 |
+| N15 | 0 | | 0 |
+| N16 | 1 | Lộc Linh | 0.5 |
+| N17 | 1 | Thế Tấn | 0.5|
+| N18 | 0 | | 0 |
+
+- Các nhóm tham gia đặt câu hỏi: 1, 4, 7, 9, 11, 14, 16, 17 
 
 ## **2. Các câu hỏi hay nhất**
 - **Nhóm 14 (N14)**: 
@@ -76,31 +89,33 @@
 
 ### **3.2. Ghi nhận câu trả lời**
 - Số điểm của các nhóm (theo thang điểm 10) sẽ được tính dựa trên số câu hỏi trả lời đúng tại lần submit cuối cùng của nhóm đó.
-- Số lượng nhóm tham gia giải bài tập: 12
-- Các nhóm tham gia giải bài tập: 1, 3, 4, 7, 9, 10, 11, 12, 13, 14, 16, 17
-- Tổng số lần submit đã ghi nhận được: 19
-- Tổng số lần submit cuối: 12
+- Số lượng nhóm tham gia giải bài tập: 15
+- Các nhóm tham gia giải bài tập: 1, 2, 3, 4, 5, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17
+- Tổng số lần submit đã ghi nhận được: 23
+- Tổng số lần submit cuối: 15
 - Biểu đồ thống kê số lần submit
 
     ![Total_submitions](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Total_submittions.png)
 - Kết quả thống kê được:
 
-| Tên nhóm | Câu 1 | Câu 2 | Câu 3 | Số lần submit | Số câu đúng | Tổng điểm |
+| Tên nhóm | Câu 1 | Câu 2 | Câu 3 | Số lần submit | Số câu đúng | Sô điểm |
 |:--------:|:-----:|:-----:|:-----:|:-------------:|:-----------:|:---------:|
-| N01 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
-| N02 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
-| N03 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
-| N04 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
-| N05 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
-| N07 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
-| N09 | O(4^n) | O(2^n) | O(3^n) | 3 | 3 | 10 |
-| N10 | O(4^n) | O(2^n) | O(3^n) | 3 | 3 | 10 |
-| N11 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
-| N12 | O(4^n) | O(2^n) | O(3^n) | 2 | 3 | 10 |
-| N13 | O(4^n) | O(2^n) | O(3^n) | 2 | 3 | 10 |
-| N14 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
-| N16 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
-| N17 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 10 |
+| N01 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
+| N02 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
+| N03 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
+| N04 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
+| N05 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
+| N07 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
+| N08 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
+| N09 | O(4^n) | O(2^n) | O(3^n) | 3 | 3 | 1 |
+| N10 | O(4^n) | O(2^n) | O(3^n) | 3 | 3 | 1 |
+| N11 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
+| N12 | O(4^n) | O(2^n) | O(3^n) | 2 | 3 | 1 |
+| N13 | O(4^n) | O(2^n) | O(3^n) | 2 | 3 | 1 |
+| N14 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
+| N15 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
+| N16 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
+| N17 | O(4^n) | O(2^n) | O(3^n) | 1 | 3 | 1 |
 
 ### **3.3. Đánh giá câu trả lời**
 
@@ -122,7 +137,28 @@
   
     ![Ques_1st_submitions](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Ques_3rd_Submitions.png)
 
-## **4. Mô tả các bài thực hành**
+## **4. Đánh giá kết quả cuối cùng của các nhóm**
+| Tên nhóm |Tương tác | Phát biểu | Câu hỏi | Bài tập | Tổng điểm |
+|:--------:|:--------:|:---------:|:-------:|:-------:|:---------:|
+| N01 | 7 | 1   | 1   | 1 | 10  |
+| N02 | 7 | 0.5 | 0   | 1 | 8.5 |
+| N03 | 7 | 0   | 0   | 1 | 8   |
+| N04 | 7 | 0.5 | 1   | 1 | 9.5 |
+| N05 | 7 | 0   | 0   | 1 | 8   |
+| N07 | 7 | 0.5 | 0.5 | 1 | 9   |
+| N08 | 7 | 0   | 0   | 1 | 8   |
+| N09 | 7 | 0.5 | 0.5 | 1 | 9   |
+| N10 | 7 | 0   | 0   | 1 | 8   |
+| N11 | 7 | 1   | 1   | 1 | 10  |
+| N12 | 7 | 0   | 0   | 1 | 8   |
+| N13 | 7 | 0   | 0   | 1 | 8   |
+| N14 | 7 | 1   | 1   | 1 | 10  |
+| N15 | 7 | 0   | 0   | 1 | 8   |
+| N16 | 7 | 0.5 | 0.5 | 1 | 9   |
+| N17 | 7 | 0.5 | 0.5 | 1 | 9   |
+| N18 | 0 | 0   | 0   | 0 | 0   |
+
+## **5. Mô tả các bài thực hành**
 -  **Tuần 1: Tảo biển + Trạm thu phí**
 
     - Link file colab: [Tuần 1](https://github.com/Nhat-Thanh/CS112.L21/blob/main/Tuan1/PTTKTT_Tuan1_wecode.ipynb)
