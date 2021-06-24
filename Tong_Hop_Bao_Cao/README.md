@@ -7,6 +7,7 @@
 * [Đóng góp xây dựng buổi học](#1-đóng-góp-xây-dựng-buổi-học)
 * [Các câu hỏi hay nhất](2-các-câu-hỏi-hay-nhất)
 * [Đánh giá bài tập](#3-đánh-giá-bài-tập)
+* [Mô tả các bài thực hành](#4-mô-tả-các-bài-thực-hành)
 
 ## **1. Đóng góp xây dựng buổi học**
 
@@ -56,6 +57,11 @@
   - **Đánh giá câu hỏi**: 9/10
 
 ## **3. Đánh giá bài tập**
+### Index
+* [Các câu hỏi bài tập](3-1-các-câu-hỏi-bài-tập)
+* [Ghi nhận câu trả lời](3-2-ghi-nhận-câu-trả-lời)
+* [Đánh giá câu trả lời](3-3-đánh-giá-câu-trả-lời)
+
 - Link form bài tập [tại đây](https://docs.google.com/forms/d/1RLbM_9Lm9D7NqQXeucrVjcm7qn8GtgjaoBFU1g_ehqk/viewform?edit_requested=true).
 - Link file sheet thống kê: [Tại đây](https://github.com/Nhat-Thanh/CS112.L21/blob/main/Tong_Hop_Bao_Cao/Bang_Thong_Ke_Cau_Tra_Loi.csv)
 - Link file pdf được in từ trang kết quả của google form: [Tại đây](https://github.com/Nhat-Thanh/CS112.L21/blob/main/Tong_Hop_Bao_Cao/Th%E1%BB%91ng%20k%C3%AA%20k%E1%BA%BFt%20qu%E1%BA%A3%20b%C3%A0i%20t%E1%BA%ADp%20%C4%91%E1%BB%87%20quy%20-%20Nh%C3%B3m%206.pdf)
@@ -114,7 +120,7 @@
   
     ![Ques_1st_submitions](https://raw.githubusercontent.com/Nhat-Thanh/CS112.L21/main/Tong_Hop_Bao_Cao/Ques_3rd_Submitions.png)
 
-## **3. Mô tả các bài thực hành**
+## **4. Mô tả các bài thực hành**
 -  **Tuần 1: Tảo biển + Trạm thu phí**
 
     - Link file colab: [Tuần 1](https://github.com/Nhat-Thanh/CS112.L21/blob/main/Tuan1/PTTKTT_Tuan1_wecode.ipynb)
